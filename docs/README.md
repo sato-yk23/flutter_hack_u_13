@@ -1,4 +1,4 @@
-# docs
+# demo
 
 A new Flutter project.
 
